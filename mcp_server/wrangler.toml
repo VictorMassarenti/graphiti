@@ -1,0 +1,5 @@
+# Arquivo: wrangler.toml
+
+name = "mcp-server"
+main = "mcp_server/mcp_server/main.py"
+compatibility_date = "2025-06-12"
