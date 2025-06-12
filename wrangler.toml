@@ -1,0 +1,5 @@
+# Arquivo: wrangler.toml
+
+name = "graphiti"
+main = "mcp_server/graphiti_mcp_server.py"
+compatibility_date = "2025-06-12"
